@@ -9,7 +9,7 @@
 </h4>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=sa-fw-an&abbreviated=true&for-the-badge"  height="25" />
+  <img src="https://komarev.com/ghpvc/?username=Samridhi0705&abbreviated=true&for-the-badge"  height="25" />
 </div>
 
 <br>
